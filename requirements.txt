@@ -1,0 +1,7 @@
+numpy
+pandas
+dash
+plotly
+yfinance
+scikit-learn
+tensorflow
