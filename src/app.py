@@ -10,6 +10,9 @@ from datetime import datetime
 # Create a Dash app
 app = dash.Dash(__name__)
 
+# Declare server for Heroku deployment. Needed for Procfile.
+server = app.server
+
 # Define the app layout
 app.layout = html.Div([
     dcc.Input(id='stock-search', type='text', placeholder='Search Indian Stock...'),
