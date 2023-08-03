@@ -4,7 +4,7 @@ pandas==1.5.2
 plotly==5.15.0
 scikit_learn==1.3.0
 tensorflow==2.13.0
-tensorflow_intel==2.13.0
+tensorflow_intel
 yfinance==0.2.26
 gunicorn
 dash-tools
