@@ -3,5 +3,6 @@ pandas
 dash
 plotly
 yfinance
-scikit-learn
+sklearn
+sklearn-pandas
 tensorflow
